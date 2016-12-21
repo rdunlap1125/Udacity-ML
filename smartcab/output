@@ -1,0 +1,12 @@
+('red', True, 'forward') None 15
+('red', False, 'forward') None 498
+('red', True, 'left') None 14
+('red', False, 'left') None 244
+('red', True, 'right') right 20
+('red', False, 'right') right 470
+('green', True, 'forward') forward 33
+('green', False, 'forward') forward 394
+('green', True, 'left') left 10
+('green', False, 'left') left 231
+('green', True, 'right') right 24
+('green', False, 'right') right 381
